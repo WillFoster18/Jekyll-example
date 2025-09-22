@@ -9,6 +9,6 @@ header:
   overlay_filter: rgba(60, 129, 80, 0.5)
   actions:
     - label: "Blog Posts"
-      url: /blogposts.md
+      url: /_posts
 ---
 
