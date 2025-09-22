@@ -2,8 +2,8 @@ main:
   - title: "About"
     url: /about
   - title: "History"
-    url: /history.md
+    url: /history
   - title: "Dining"
-    url: /dining.md
+    url: /dining
   - title: "Activities"
-    url: /activities.md
+    url: /activities
