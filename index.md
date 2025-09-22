@@ -14,4 +14,12 @@ header:
 
 
 
-# This is my home page
+# Menu
+label: "History"
+      url: /history
+
+      label: "Dining"
+      url: /dining
+
+      label: "Activities"
+      url: /activities
