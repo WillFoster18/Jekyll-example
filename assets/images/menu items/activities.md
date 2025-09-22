@@ -4,7 +4,7 @@ title: "Activities"
 permalink: /activities/
 ---
 
-# Things to Do in Silverwood Falls
+## Things to Do in Silverwood Falls
 
 - **Hike the Misty Pines Trail**  
   A scenic loop that winds past waterfalls, wildflower meadows, and an old stone lookout tower.  

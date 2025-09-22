@@ -4,7 +4,7 @@ title: "History"
 permalink: /history/
 ---
 
-# A Brief History of Silverwood Falls
+## A Brief History of Silverwood Falls
 
 Founded in **1884** as a logging outpost, Silverwood Falls grew around the rushing river that powered the town’s first sawmill. By the early 1900s, it became a stop on the **Northern Timber Railway**, which brought both trade and tourism.  
 

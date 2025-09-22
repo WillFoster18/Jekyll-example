@@ -3,7 +3,7 @@ title: About
 layout: single
 ---
 
-# About Silverwood Falls
+## About Silverwood Falls
 
 Tucked into the misty valleys of the North Cascades, **Silverwood Falls** is a mountain town known for its breathtaking waterfalls, winding trails, and rich history. Founded in 1884 as a logging settlement, the town has grown into a welcoming community that blends old-world charm with new adventures.  
 

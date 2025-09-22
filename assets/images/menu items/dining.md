@@ -4,7 +4,7 @@ title: "Dining"
 permalink: /dining/
 ---
 
-# Where to Eat in Silverwood Falls
+## Where to Eat in Silverwood Falls
 
 - **The Lantern Bistro** – Cozy fine dining with seasonal, farm-to-table menus. Try the cedar-smoked trout.  
 - **Evergreen Café** – A breakfast staple; famous for its huckleberry pancakes and maple lattes.  
