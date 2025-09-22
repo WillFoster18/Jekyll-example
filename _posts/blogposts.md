@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog Posts
-categories: blog
+author_profile: true 
 ---
 ## Chasing Sunsets at Silverwood Lake 
 1. There’s something magical about Silverwood Lake at sunset. As the sky turns lavender and orange, the water mirrors every shade, while the pines become dark silhouettes against the horizon.  

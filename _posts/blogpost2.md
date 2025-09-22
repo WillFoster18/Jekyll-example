@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog Post 2
-categories: blog
+author_profile: true 
 ---
 ## The Secret Behind the Lantern Festival
 2. Every fall, Silverwood Falls lights up with thousands of paper lanterns drifting into the night sky. But few know the story behind it.  
