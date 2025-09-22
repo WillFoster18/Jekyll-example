@@ -10,6 +10,7 @@ Tucked into the misty valleys of the North Cascades, **Silverwood Falls** is a m
 Today, Silverwood Falls is a destination for hikers, kayakers, artists, and food lovers alike. From the **Misty Pines Trail** to the annual **Lantern Festival**, there’s always something to discover here.  
 
 ### Why Visit Silverwood Falls?
+
 - Explore rugged wilderness and crystal-clear lakes.  
 - Learn the town’s fascinating history, from sawmills to stargazing towers.  
 - Savor local flavors at cozy cafés, breweries, and family-owned restaurants.  
