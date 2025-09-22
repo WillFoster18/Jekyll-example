@@ -5,11 +5,11 @@ excerpt: Visit **Silverwood Falls**, a hidden mountain town where waterfalls sin
 header:
   overlay_image: /assets/images/River.jpg
   image_description: "River between canyons"
-  
-  actions:
-      - label: "About"
-        url: /about
   overlay_filter: rgba(60, 129, 80, 0.5)
+
+  actions:
+    - label: "About"
+      url: /about
   ---
 
 # Blog Posts
