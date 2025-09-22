@@ -8,7 +8,7 @@ header:
   image_description: "River between canyons"
   overlay_filter: rgba(60, 129, 80, 0.5)
   actions:
-    - label: "Learn More"
-      url: /about/
+    - label: "Blog Posts"
+      url: /blogposts
 ---
 
